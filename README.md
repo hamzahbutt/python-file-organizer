@@ -35,6 +35,14 @@ Give the source: C:\Users\YourName\Downloads
 
 4. The script will sort the files in that folder and create a `changes.txt` file inside it listing every file that was moved.
 
+## Screenshots
+
+**Before sorting:**
+![Before sorting](screenshots/before.png)
+
+**After sorting:**
+![After sorting](screenshots/after.png)
+
 ## Supported File Types
 
 | Category | Extensions |
