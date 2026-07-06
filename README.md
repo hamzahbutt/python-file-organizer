@@ -38,9 +38,11 @@ Give the source: C:\Users\YourName\Downloads
 ## Screenshots
 
 **Before sorting:**
+
 ![Before sorting](screenshots/before.png)
 
 **After sorting:**
+
 ![After sorting](screenshots/after.png)
 
 ## Supported File Types
